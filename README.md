@@ -15,10 +15,10 @@ For more information on the extension to summary statistics ("S-PrediXcan"), ple
 
 Files are as follows:
 DLPFC.cov.txt.gz  Covariances between rsids in each gene model. File required for MetaXcan
+
 DLPFC_newMetax.db  DLPFC weight file. Compatible with PrediXcan and NEW MetaXcan code
+
 DLPFC_oldMetax.db  DLPFC weight file. Compatible with PrediXcan and OLD MetaXcan code
-DLPFC_update_corr  Correlations between snps in gene models
-old	Previous incarnations of these models.
 
 Suggested command line to run MetaXcan:
 
