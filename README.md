@@ -14,7 +14,7 @@ For more information on the extension to summary statistics ("S-PrediXcan"), ple
 -------
 
 Files are as follows:
-DLPFC.cov.txt.gz  Covariances between rsids in each gene model. File required for MetaXcan
+DLPFC.cov.txt.gz  Covariances between rsids in each gene model. File required for MetaXcan. Too large for github; available here:https://huckil01.u.hpc.mssm.edu/CMC_DLPFC_prediXcan/CMC_DLPFC.cov.txt.gz
 
 DLPFC_newMetax.db  DLPFC weight file. Compatible with PrediXcan and NEW MetaXcan code
 
